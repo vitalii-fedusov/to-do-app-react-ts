@@ -1,7 +1,7 @@
 # ToDo App with API
 A useful app to track your tasks
 
-To see a demo click [here](https://vitalii-fedusov.github.io/react_todo-app-with-api/)
+To see a demo click [here](https://vitalii-fedusov.github.io/to-do-app-react-ts/)
 ### Technologies
 1. React
 2. TS
