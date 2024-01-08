@@ -8,6 +8,14 @@ module.exports = {
     'react/prop-types': 0,
     'react/self-closing-comp': 0,
     'react/display-name': 0,
+    'react/react-in-jsx-scope': 'off',
+    'no-shadow': 'off',
+    'jsx-a11y/label-has-associated-control': [2, {
+      labelComponents: ['CustomInputLabel'],
+      labelAttributes: ['label'],
+      controlComponents: ['CustomInput'],
+      depth: 3,
+    }],
 
     // JavaScript
     semi: 0,
